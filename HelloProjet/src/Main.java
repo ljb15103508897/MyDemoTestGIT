@@ -9,5 +9,8 @@ System.out.println("你好世界!");
 System.out.println("世界你好");
 System.out.println("你好世界!");
 System.out.println("世界你好");
+System.out.println("世界你好");
+System.out.println("你好世界!");
+System.out.println("世界你好");
     }
 }
